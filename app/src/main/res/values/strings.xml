@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">COVID 19 Reminder</string>
+    <string name="TIMER">Button</string>
+    <string name="time">TIMER</string>
+    <string name="mark">MARK SALE</string>
+    <string name="todo">TODO</string>
+    <string name="i_am_wearing_the_mask">I am wearing the Mask</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="textview">TextView</string>
+    <string name="_00_00">00:00:00</string>
+    <string name="start2">start</string>
+    <string name="reset2">reset</string>
+
+
+</resources>
